@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 library(dplyr)
 library(ggplot2)
 library(tidyr)
@@ -294,3 +295,4 @@ summary(train_df$com_reg_ver_win_rate)
 train_df$ver_win_ratio_per_bu <- as.factor(train_df$ver_win_ratio_per_bu)
 levels(train_df$ver_win_ratio_per_bu)
 summary(train_df$ver_win_ratio_per_bu)
+
